@@ -1,0 +1,15 @@
+2025-07-23 03:00:10,921 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-23 03:01:13,360 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.quantum.ampmjobs:ampmjobs:0.0.1-SNAPSHOT @ D:\ampmjobs\ampmjobs-develop_v1\pom.xml.
+2025-07-23 03:01:33,576 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ampmjobs/src/main/java
+2025-07-23 03:01:33,576 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ampmjobs/src/main/resources
+2025-07-23 03:01:33,579 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ampmjobs/src/main/resources
+2025-07-23 03:01:33,582 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ampmjobs/src/test/java
+2025-07-23 03:01:33,582 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ampmjobs/src/test/resources
+2025-07-23 03:01:34,648 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 32 sec
+2025-07-23 03:01:40,709 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-23 03:01:40,709 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-07-23 03:01:40,717 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2025-07-23 03:01:40,977 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 199 resources
+2025-07-23 03:01:48,907 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-07-23 03:01:48,907 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-07-23 03:01:48,907 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ampmjobs\ampmjobs-develop_v1\src\test\resources
